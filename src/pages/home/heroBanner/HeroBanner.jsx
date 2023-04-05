@@ -27,6 +27,7 @@ const HeroBanner = () => {
   };
   return (
     <div className="heroBanner">
+      <div className="backdrop-img"></div>
       <div className="wrapper">
         <div className="heroBannerContent">
           <span className="title">Welcome.</span>
